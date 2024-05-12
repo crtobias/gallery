@@ -1,0 +1,13 @@
+@import "../../styles/vars.css";
+
+.Button-Text{
+    color: var(--color-black);
+}
+
+.Button-Container{
+    background-color: var(--color-red);
+    height: 2rem;
+    max-width: 6rem;
+    align-items: center;
+    text-align: center;
+}

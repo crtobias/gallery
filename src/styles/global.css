@@ -1,0 +1,13 @@
+@import "./vars.css";
+
+.Global-Container{
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
